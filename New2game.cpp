@@ -1,6 +1,3 @@
-// Time:  O(n)
-// Space: O(n)
-
 class Solution {
 public:
     double new21Game(int N, int K, int W) {
